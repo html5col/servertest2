@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Frank -- Full Stack  Developer -- frank25184@sina.com
+
+# THANKS
+
+    the authors the boilerplate based on
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr

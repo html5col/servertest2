@@ -1,0 +1,52 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "It is a test",
+  "main": "app.js",
+  "scripts": {
+    "server": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/html5col/serverTest.git"
+  },
+  "keywords": [
+    "base"
+  ],
+  "author": "Frank Lee",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "co": "4.6.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "helmet": "^3.1.0",
+    "mongoose": "^4.7.4",
+    "nodemailer": "^2.7.0",
+    "serve-favicon": "^2.3.2",
+    "winston": "^2.3.0",
+    "winston-daily-rotate-file": "^1.4.0",
+    "xss": "^0.3.3"
+  },
+  "devDependencies": {
+    "babel-core": "6.24.0",
+    "babel-loader": "6.4.1",
+    "babel-preset-latest": "6.24.0",
+    "css-loader": "^0.27.3",
+    "extract-text-webpack-plugin": "github:webpack-contrib/extract-text-webpack-plugin",
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^2.0.0",
+    "grunt-hashres": "^0.4.1",
+    "heapdump": "0.3.7",
+    "morgan": "^1.7.0",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.3",
+    "style-loader": "0.14.1",
+    "webpack": "2.2.1"
+  }
+}
