@@ -1,5 +1,8 @@
-NodeJS BASE Boilerplate
+NodeJS Test App
 ============
 
-NODEJS BASE: for any app that use nodejs. It can be the base of any complicated app.Have fun
-------------
+### Install
+  1. npm install
+  2. npm start server
+
+
