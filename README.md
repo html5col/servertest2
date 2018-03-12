@@ -6,3 +6,5 @@ NodeJS Test App
   2. npm start server
 
 
+### Tech Stack
+  Nodejs, Express
